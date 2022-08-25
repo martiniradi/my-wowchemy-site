@@ -10,10 +10,10 @@ authors:
   - Stefan Ropke
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
 date: '2022-02-04T00:00:00Z'
 doi: 'https://doi.org/10.1287/trsc.2021.1112'
