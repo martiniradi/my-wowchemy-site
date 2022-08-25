@@ -14,12 +14,13 @@ organizations:
     url: https://www.man.dtu.dk/english
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include transport optimization, decomposition algorithms, port logistics
+bio: My research interests include large-scale optimization, maritime logistics, and on-demand mobility
 
 # Interests to show in About widget
 interests:
-  - Transport optimization
-  - Collaborative logistics
+  - Large-scale optimization
+  - Integer programming
+  - Maritime logistics
   - On-demand mobility
 
 # Education to show in About widget
