@@ -14,7 +14,7 @@ organizations:
     url: https://www.man.dtu.dk/english
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include large-scale optimization, maritime logistics, and on-demand mobility
+bio: Passionate about optimization in transportation and logistics
 
 # Interests to show in About widget
 interests:
