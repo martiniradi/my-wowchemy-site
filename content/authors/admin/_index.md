@@ -76,7 +76,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a PhD student in Operations Research at the Technical University of Denmark (DTU), advised by Prof. Dario Pacino and Prof. Stefan Ropke. 
+I am a third year PhD student in Operations Research at the Technical University of Denmark (DTU), advised by Prof. Dario Pacino and Prof. Stefan Ropke. 
 <!-- Currently, I am conducting a research stay at the Massachusetts Institute of Technology (MIT), hosted by Prof. Alexandre Jacquillat.  -->
 In my research, I develop decomposition-based methods for large-scale optimization applied to transportation and logistics. My current two projects involve collaborative maritime logistics and on-demand microtransit systems. 
 
