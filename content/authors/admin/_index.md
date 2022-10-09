@@ -27,13 +27,13 @@ interests:
 education:
   courses:
     - course: PhD in Operations Research
-      institution: Technical University of Denmark
+      institution: Technical University of Denmark DTU
       year: 2023
     - course: Visiting PhD student
-      institution: Massachusetts Institute of Technology
+      institution: Massachusetts Institute of Technology MIT
       year: 2022
     - course: MSc in Industrial Engineering and Management
-      institution: Technical University of Denmark
+      institution: Technical University of Denmark DTU
       year: 2018
     - course: MSc in Industrial Engineering
       institution: Polytechnical University of Catalonia (UPC-BarcelonaTech)
