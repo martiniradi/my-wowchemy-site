@@ -6,8 +6,8 @@ title: 'Design and optimization of on-demand microtransit systems'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Alexandre Jacquillat
   - Kayla Cummings
+  - Alexandre Jacquillat
 
 # Author notes (optional)
 # author_notes:
@@ -27,7 +27,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-# publication: In European Journal of Operations Research
+publication: In preparation
 # publication_short: In *EJOR*
 
 abstract: On-demand microtransit defines a middle ground between public transit (with a reference route and a reference schedule) and on-demand transportation (with real-time routing adjustments to serve on-demand requests). We formulate a two-stage stochastic program to optimize strategic network design (in the first stage) along with system operations (in the second stage). We propose an effective model representation based on a time-space-load network. This structure enables the design of a tailored Benders decomposition algorithm. Preliminary results suggest that the proposed algorithm outperforms baseline modeling and computational approaches, and that microtransit systems can provide win-win-win benefits in urban mobility—a higher level of service for passengers, lower operating costs for transit operators, and a smaller environmental footprint.

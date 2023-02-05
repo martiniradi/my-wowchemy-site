@@ -58,6 +58,15 @@ experience:
     date_end: '2017-12-25'
     description: Supervised and assisted students during exercise lectures
 
+  - title: Main lecturer - 42380 Supply Chain Analytics
+    company: DTU Management
+    company_url: ''
+    company_logo: org-dtu
+    location: ''
+    date_start: '2023-02-01'
+    date_end: '2023-05-31'
+    description: Gave lectures, managed and corrected assignments and exercises for 150+ students 
+
 design:
   columns: '2'
 ---
