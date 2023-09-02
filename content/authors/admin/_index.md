@@ -6,12 +6,12 @@ title: Bernardo Martin-Iradi
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Operations Research
+role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Technical University of Denmark DTU
-    url: https://www.man.dtu.dk/english
+  - name: ETH Zurich - Institute for Transport Planning and Systems
+    url: https://www.ivt.ethz.ch/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Passionate about optimization in transportation and logistics
@@ -20,8 +20,8 @@ bio: Passionate about optimization in transportation and logistics
 interests:
   - Large-scale optimization
   - Integer programming
-  - Maritime logistics
   - On-demand mobility
+  - Maritime logistics
 
 # Education to show in About widget
 education:
@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:mbernardo@ethz.ch'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -76,12 +76,8 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a third year PhD student in Operations Research at the Technical University of Denmark (DTU), advised by Prof. Dario Pacino and Prof. Stefan Ropke. 
-<!-- Currently, I am conducting a research stay at the Massachusetts Institute of Technology (MIT), hosted by Prof. Alexandre Jacquillat.  -->
-In my research, I develop decomposition-based methods for large-scale optimization applied to transportation and logistics. My current two projects involve collaborative maritime logistics and on-demand microtransit systems. 
-
-<!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
-
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
+I am a postdoctoral researcher at the Institute for Transport Planning and Systems (IVT) at ETH Zurich. 
+Prior to this, I conducted my doctoral studies in Operations Research at DTU, advised by Prof. Dario Pacino and Prof. Stefan Ropke, which included a research stay at the MIT Sloan School of Management, hosted by Prof. Alexandre Jacquillat.
+In my research, I develop decomposition-based methods for large-scale optimization applied to transportation and logistics. My current two projects involve collaborative maritime logistics and on-demand pubic transit systems. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
