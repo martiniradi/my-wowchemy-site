@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bernardo Martin-Iradi
+title: Bernard \\ Martin-Iradi
 
 # Full name (for SEO)
 first_name: Bernardo
