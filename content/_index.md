@@ -41,6 +41,31 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: collection
+    id: talks
+    content:
+      title: Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
+  - block: collection
+    id: publications
+    content:
+      title: Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      columns: '2'
+      view: citation
   # - block: features
   #   content:
   #     title: Skills
@@ -289,31 +314,6 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  - block: collection
-    id: talks
-    content:
-      title: Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  - block: collection
-    id: publications
-    content:
-      title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      columns: '2'
-      view: citation
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
