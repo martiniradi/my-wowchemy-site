@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: M
+  font_size: L
 
 # SEO
 
@@ -21,10 +21,10 @@ marketing:
     description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
     twitter: 'wowchemy'
   analytics:
-    google_analytics: 'G-X2X9PVVR40'
+    google_analytics: 'G-X2X9PVVR4'
     baidu_tongji: ''
     google_tag_manager: ''
-    microsoft_clarity: ''
+    microsoft_clarity: ''  
   verification:
     google: ''
     baidu: ''
