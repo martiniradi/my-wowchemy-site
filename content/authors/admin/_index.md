@@ -2,6 +2,10 @@
 # Display name
 title: Bernardo Martin-Iradi
 
+# Full name (for SEO)
+first_name: Bernardo
+last_name: Martin-Iradi
+
 # Is this the primary user of the site?
 superuser: true
 
