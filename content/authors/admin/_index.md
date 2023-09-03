@@ -1,5 +1,6 @@
 ---
 # Display name
+<<<<<<< HEAD
 title: Bernardo Martin-Iradi
 
 # Full name (for SEO)
@@ -9,6 +10,17 @@ last_name: Martin-Iradi
 # Status emoji
 # status:
 #   icon: ☕️
+=======
+title: Alice Wu 吳恩達
+
+# Full name (for SEO)
+first_name: Alice
+last_name: Wu
+
+# Status emoji
+status:
+  icon: ☕️
+>>>>>>> c79cd099fef75bf3008775ed3700ce17693b9e6c
 
 # Is this the primary user of the site?
 superuser: true
@@ -57,6 +69,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
+<<<<<<< HEAD
     link: 'mailto:mbernardo@ethz.ch'
   # - icon: twitter
   #   icon_pack: fab
@@ -64,6 +77,15 @@ social:
   #   label: Follow me on Twitter
   #   display:
   #     header: true
+=======
+    link: '/#contact'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+    label: Follow me on Twitter
+    display:
+      header: true
+>>>>>>> c79cd099fef75bf3008775ed3700ce17693b9e6c
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=de5chRUAAAAJ&hl=es&oi=ao
@@ -72,13 +94,21 @@ social:
     link: https://github.com/martiniradi
   - icon: linkedin
     icon_pack: fab
+<<<<<<< HEAD
     link: https://www.linkedin.com/in/b-martin-iradi
+=======
+    link: https://www.linkedin.com/
+>>>>>>> c79cd099fef75bf3008775ed3700ce17693b9e6c
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
+<<<<<<< HEAD
     link: uploads/CV.pdf
+=======
+    link: uploads/resume.pdf
+>>>>>>> c79cd099fef75bf3008775ed3700ce17693b9e6c
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -87,7 +117,11 @@ email: ''
 highlight_name: true
 ---
 
+<<<<<<< HEAD
 I am a postdoctoral researcher at the Institute for Transport Planning and Systems (IVT) at ETH Zurich. 
 Prior to this, I conducted my doctoral studies in Operations Research at DTU, advised by Prof. Dario Pacino and Prof. Stefan Ropke, which included a research stay at the MIT Sloan School of Management, hosted by Prof. Alexandre Jacquillat.
 In my research, I develop decomposition-based methods for large-scale optimization applied to transportation and logistics. My current projects involve collaborative maritime logistics and on-demand pubic transit systems.
+=======
+Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+>>>>>>> c79cd099fef75bf3008775ed3700ce17693b9e6c
 {style="text-align: justify;"}
