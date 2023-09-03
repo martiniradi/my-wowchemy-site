@@ -289,7 +289,7 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-    - block: collection
+  - block: collection
     id: talks
     content:
       title: Upcoming Talks
@@ -318,7 +318,7 @@ sections:
   #   content:
   #     title: Popular Topics
   #   design:
-      columns: '2'
+  #     columns: '2'
   - block: contact
     id: contact
     content:
