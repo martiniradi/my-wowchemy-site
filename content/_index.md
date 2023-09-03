@@ -327,7 +327,7 @@ sections:
         Workplace
       # Contact (add or remove contact options as necessary)
       email: bernardo.martin-iradi@ivt.baug.ethz.ch
-      phone: 888 888 88 88
+      # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
         street: Stefano-Franscini-Platz 5
