@@ -87,7 +87,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a postdoctoral researcher at the Institute for Transport Planning and Systems (IVT) at ETH Zurich. 
+I am a postdoctoral researcher at the <a href="https://www.ivt.ethz.ch/en/" target="_blank" rel="noopener"> Institute for Transport Planning and Systems (IVT)</a> at ETH Zurich. 
 Prior to this, I conducted my doctoral studies in Operations Research at DTU, advised by Prof. Dario Pacino and Prof. Stefan Ropke, which included a research stay at the MIT Sloan School of Management, hosted by Prof. Alexandre Jacquillat.
 In my research, I develop decomposition-based methods for large-scale optimization applied to transportation and logistics. My current projects involve collaborative maritime logistics and on-demand pubic transit systems.
 {style="text-align: justify;"}
