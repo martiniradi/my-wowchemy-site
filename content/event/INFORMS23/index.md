@@ -1,7 +1,7 @@
 ---
 title: Design and Operation of Demand-Responsive Microtransit
 
-event: INFORMS Annual Meeting
+event: 2023 INFORMS Annual Meeting
 event_url: https://meetings.informs.org/wordpress/phoenix2023/
 
 location: Phoenix Convention Centre, CC-North 222A
