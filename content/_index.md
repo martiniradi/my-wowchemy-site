@@ -115,6 +115,24 @@ sections:
         #   date_start: '2016-01-01'
         #   date_end: '2020-12-31'
         #   description: Taught electronic engineering and researched semiconductor physics.
+        - title: Teaching assistant - 101-0467-01L Transport Systems
+          company: Institute for Transport Planning and Systems
+          company_url: ''
+          company_logo: org-eth
+          location: ''
+          date_start: '2023-09-20'
+          date_end: '2024-02-15'
+          description: Assignment and exam presentation and correction
+
+        - title: Teaching assistant - 101-0427-01L Public Transport Design and Operations
+          company: Institute for Transport Planning and Systems
+          company_url: ''
+          company_logo: org-eth
+          location: ''
+          date_start: '2023-09-20'
+          date_end: '2024-02-15'
+          description: Assistance in exercise and assignments sessions
+
         - title: Main lecturer - 42380 Supply Chain Analytics
           company: DTU Management
           company_url: ''
