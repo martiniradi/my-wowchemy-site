@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publications (alphabetical order, first-(co)authorships are bolded)
 cms_exclude: true
 
 # View.
