@@ -55,10 +55,9 @@ sections:
     id: publications
     content:
       title: Publications
-      text: (alphabetical order, first-(co)authorships are bolded)
-        |-
+      text:  |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        Alphabetical author order, first-(co)authorships are bolded. [Filter publications](./publication/).
         {{% /callout %}}
       filters:
         folders:

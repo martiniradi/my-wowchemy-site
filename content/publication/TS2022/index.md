@@ -28,7 +28,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In Transportation Science
+publication: In *Transportation Science*
 # publication_short: In *TS*
 
 abstract: We consider a variant of the berth allocation problem—that is, the multiport berth allocation problem—aimed at assigning berthing times and positions to vessels in container terminals. This variant involves optimizing vessel travel speeds between multiple ports, thereby exploiting the potentials of a collaboration between carriers (shipping lines) and terminal operators. Using a graph representation of the problem, we reformulate an existing mixed-integer problem into a generalized set partitioning problem, in which each variable refers to a sequence of feasible berths in the ports that the vessel visits. By integrating column generation and cut separation in a branch-and-cut-and-price procedure, our proposed method is able to outperform commercial solvers in a set of benchmark instances and adapt better to larger instances. In addition, we apply cooperative game theory methods to efficiently distribute the savings resulting from a potential collaboration and show that both carriers and terminal operators would benefit from collaborating.

@@ -26,7 +26,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In European Journal of Operations Research
+publication: In *European Journal of Operational Research*
 # publication_short: In *EJOR*
 
 abstract: In this study, the periodic train timetabling problem is formulated using a time-space graph formulation that exploits the properties of a symmetric timetable. Three solution methods are proposed and compared where solutions are built by what we define as a dive-and-cut-and-price procedure. An LP relaxed version of the problem with a subset of constraints is solved using column generation where each column corresponds to the train paths of a line. Violated constraints are added by separation and a heuristic process is applied to help to find integer solutions. The passenger travel time is computed based on a solution timetable and Benders’ optimality cuts are generated allowing the method to integrate the routing of the passengers. We propose two large neighborhood search methods where the solution is iteratively destroyed and repaired into a new one and one random iterative method. The problem is tested on the morning rush hour period of the Regional and InterCity train network of Zealand, Denmark. The solution approaches show robust performance in a variety of scenarios, being able to find good quality solutions in terms of travel time and path length relatively fast. The inclusion of the proposed Benders’ cuts provide stronger relaxations to the problem. In addition, the graph formulation covers different real-life constraints and has the potential to easily be extended to accommodate more constraints.
