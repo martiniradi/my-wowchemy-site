@@ -15,8 +15,8 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2023-01-28T00:00:00Z'
-# doi: 'https://doi.org/10.1287/trsc.2021.1112'
+date: '2023-02-06T00:00:00Z'
+doi: 'https://doi.org/10.1016/j.ejor.2024.02.003'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -25,10 +25,10 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Accepted in *European Journal of Operational Research*
+publication: In *European Journal of Operational Research*
 # publication_short: In *TS*
 
 abstract: In this paper, we study a problem that integrates the vessel scheduling problem with the berth allocation into a collaborative problem denoted as the multi-port continuous berth allocation problem (MCBAP). This problem optimizes the berth allocation of a set of ships simultaneously in multiple ports while also considering the sailing speed of ships between ports. Due to the highly combinatorial character of the problem, exact methods struggle to scale to large-size instances, which points to exploring heuristic methods. We present a mixed-integer problem formulation for the MCBAP and introduce an adaptive large neighborhood search (ALNS) algorithm enhanced with a local search procedure to solve it. The computational results highlight the method's suitability for larger instances by providing high-quality solutions in short computational times. Practical insights indicate that the carriers' and terminal operators' operational costs are impacted in different ways by fuel prices, external ships at port, and the modeling of a continuous quay.
