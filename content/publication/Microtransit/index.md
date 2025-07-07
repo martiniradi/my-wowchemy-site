@@ -1,20 +1,21 @@
 ---
-title: 'Deviated Fixed-route Microtransit: Design and Operations'
+title: 'A Double Decomposition Algorithm for Network Planning and Operations in Deviated Fixed-route Microtransit'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - admin
+  - Alexandria Schmid
   - Kayla Cummings
   - Alexandre Jacquillat
-  - admin
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-02-02T00:00:00Z'
+date: '2025-06-04T00:00:00Z'
 #doi: 'https://doi.org/10.1016/j.ejor.2021.04.041'
 
 # Schedule page publish date (NOT publication's date).
@@ -30,7 +31,7 @@ publication_types: ['3']
 publication: Major revision in *Operations Research*
 # publication_short: In *EJOR*
 
-abstract: Microtransit offers opportunities to enhance urban mobility by combining the reliability of public transit and the flexibility of ride-sharing. This paper optimizes the design and operations of a deviated fixed-route microtransit system that relies on reference lines but is allowed to deviate in response to passenger demand. We formulate a Microtransit Network Design (MiND) model via two-stage stochastic optimization. The model features a tight second-stage formulation thanks to a subpath-based representation of microtransit operations in a load-expanded network, which optimizes on-demand deviations between checkpoint stops. We develop a double-decomposition algorithm combining Benders decomposition and subpath-based column generation armed with a tailored label-setting algorithm. Using real-world data from Manhattan, results suggest that our method scales to large practical instances, with up to 10-100 candidate lines and hundreds of stations. Comparisons with transit and ride-sharing benchmarks suggest that microtransit can provide win-win outcomes toward efficient mobility (high demand coverage, low operating costs, high level of service), equitable mobility (broad geographic reach) and sustainable mobility (limited environmental footprint). We provide an open-source implementation in an online repository to enable replication.
+abstract: Microtransit offers opportunities to enhance urban mobility by combining the reliability of public transit and the flexibility of ride-sharing. This paper optimizes the design and operations of a deviated fixed-route microtransit system that relies on reference lines but is allowed to deviate in response to passenger requests. We formulate a Microtransit Network Design (MiND) model via two-stage stochastic integer optimization, with a first-stage network design and service scheduling structure and a second-stage vehicle routing structure. We derive a tight second-stage relaxation using a subpath-based representation of microtransit operations in a load-expanded network. We develop a double-decomposition algorithm combining Benders decomposition and subpath-based column generation. We prove that the algorithm maintains a valid optimality gap and converges to an optimal solution in a finite number of iterations. Results obtained with real-world data from Manhattan show that the methodology scales to large and otherwise-intractable instances, with up to 10-100 candidate lines and hundreds of stops. Comparisons with transit and ride-sharing suggest that microtransit can provide win-win outcomes toward efficient mobility (high demand coverage, low costs, high level of service), equitable mobility (broad geographic reach) and sustainable mobility (limited environmental footprint). We provide an open-source implementation to enable replication.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

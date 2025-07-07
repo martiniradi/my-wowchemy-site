@@ -57,7 +57,7 @@ sections:
       title: Publications
       text:  |-
         {{% callout note %}}
-        Alphabetical author order, first-(co)authorships are bolded. [Filter publications](./publication/).
+        First-authorships are bolded. [Filter publications](./publication/).
         {{% /callout %}}
       filters:
         folders:
@@ -115,6 +115,15 @@ sections:
         #   date_start: '2016-01-01'
         #   date_end: '2020-12-31'
         #   description: Taught electronic engineering and researched semiconductor physics.
+        - title: Lecturer - 101-0467-01L Transport Systems
+          company: Institute for Transport Planning and Systems
+          company_url: ''
+          company_logo: org-eth
+          location: ''
+          date_start: '2024-09-01'
+          date_end: '2025-02-15'
+          description: In charge of giving lectures and preparing and correcting exams
+
         - title: Teaching assistant - 101-0467-01L Transport Systems
           company: Institute for Transport Planning and Systems
           company_url: ''
@@ -130,7 +139,7 @@ sections:
           company_logo: org-eth
           location: ''
           date_start: '2023-09-20'
-          date_end: '2024-02-15'
+          date_end: '2025-02-15'
           description: Assistance in exercise and assignments sessions
 
         - title: Main lecturer - 42380 Supply Chain Analytics
@@ -217,6 +226,14 @@ sections:
         #   organization_url: https://www.datacamp.com
         #   title: 'Object-Oriented Programming in R'
         #   url: ''
+        - certificate_url: https://www.ivt.ethz.ch/en/info/news/2025/06/verolog-doctoral-dissertation-prize.html
+          date_end: ''
+          date_start: '2025-06-17'
+          description: The prize distinguishes an outstanding PhD thesis on Operational Research methods applied to Vehicle Routing and Logistics Optimization.
+          organization: 9th meeting - EURO working group on Vehicle Routing and Logistics optimization (VeRoLog) in Trento, Italy
+          organization_url: https://verolog.euro-online.org/
+          title: 'VeRoLog Doctoral Dissertation Prize 2023'
+          url: ''
         - certificate_url: https://upcommons.upc.edu/handle/2117/331428
           date_end: ''
           date_start: '2018-10-18'
